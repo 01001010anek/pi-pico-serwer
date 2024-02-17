@@ -1,4 +1,4 @@
-# Instrukcja krok po kroku jak zrobić serwer, na którym będzie ożna hostować stronę internetową z RPI Pico W. <br>
+# Instrukcja krok po kroku jak zrobić serwer, na którym będzie można hostować stronę internetową z RPI Pico W. <br>
 ## Do wykonania tego projektu potrzebujesz: <br>
 Raspberry Pi Pico <br>
 Komputer z dostępem do internetu <br>
