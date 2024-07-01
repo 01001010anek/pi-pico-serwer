@@ -9,3 +9,4 @@ Kabel USB do podłączenia Raspberry Pi Pico do komputera <br>
 3.Utwórz plik `boot.py`, i przekopiuj do niego zawartość pliku o identycznej nazwie z repozytorium. <br>
 4.W pliku `boot.py` zmień nazwę i hasło do sieci wi-fi na twoje własne. <br>
 5.Po podłączeniu do prądu RPI będzie od teraz łączył się z twoją sieecią wi-fi,a strona z pliku `index.html` będzie widoczna pod jego adresem ip.
+Użytek na własną odpowiedzialność.
